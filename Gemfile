@@ -42,6 +42,8 @@ gem "devise", '~>4.0.3'
 
   gem "mini_magick"
 
+	gem "aasm"
+
 	 gem "font-awesome-rails"
 
 	  group :production do
